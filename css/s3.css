@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(224, 247, 255);
+    color:rgb(116, 73, 27);
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer { text-align: center;
+    background-color: rgb(209, 209, 209);
+
+}
+p { text-align: justify;
+text-indent: 8px;
+}
